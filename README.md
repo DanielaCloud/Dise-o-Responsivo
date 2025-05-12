@@ -1,1 +1,1 @@
-# Dise-o-Responsivo
+# Diseño Responsivo
